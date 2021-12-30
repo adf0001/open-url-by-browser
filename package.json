@@ -1,0 +1,24 @@
+{
+  "name": "open-url-by-browser",
+  "version": "1.0.1",
+  "description": "open url by browser",
+  "main": "open-url-by-browser.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "open",
+    "url",
+    "browser"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/open-url-by-browser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/open-url-by-browser/issues"
+  },
+  "homepage": "https://github.com/adf0001/open-url-by-browser#readme"
+}
